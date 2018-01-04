@@ -9,4 +9,4 @@
 
 ## Mockup:
 
-![Image of Mockup](x)
+![Image of Mockup](https://github.com/zaturnvalley/ReactNativeReduxManagerApp/blob/master/mockup.png?raw=true)
