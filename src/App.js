@@ -6,7 +6,7 @@ import { createStore } from 'redux';
 class App extends Component {
   render(){
     return (
-      <Provider>
+      <Provider store={createStore()}>
         <View>
           <Text>
             Hello
@@ -16,3 +16,5 @@ class App extends Component {
     );
   }
 }
+
+export default App;
