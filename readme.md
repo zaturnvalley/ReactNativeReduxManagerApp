@@ -5,6 +5,7 @@
 ## Utilizes:
 * React-Native
 * Redux
+* Security features
 * Multiple page app that allows to edit data
 
 ## Mockup:
