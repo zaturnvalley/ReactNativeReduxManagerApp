@@ -13,7 +13,7 @@ export default (state = INITIAL_STATE, action) => {
     case EMAIL_CHANGED:
       return { ...state, email: action.payload };
     case PASSWORD_CHANGED:
-      return { ...state, password: action.payload};
+      return { ...state, password: action.payload };
     default:
       return state;
   }
