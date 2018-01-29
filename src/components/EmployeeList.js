@@ -7,6 +7,7 @@ class EmployeeList extends Component {
   componentWillMount(){
     this.props.employeesFetch();
 
+    this.createDataSource(this.props);
   }
 
   componentWillReceiveProps(nextProps) {
@@ -14,7 +15,7 @@ class EmployeeList extends Component {
     // this component will be rendered with
     // while this.props is still the old set of props
 
-
+    this.createDataSource(nextProps);
   }
 
   createDataSource({ employees }) {
