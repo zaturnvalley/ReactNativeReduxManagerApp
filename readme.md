@@ -12,6 +12,6 @@
 
 ## Mockup:
 
-![Image of Working Demo[(https://github.com/zaturnvalley/ReactNativeReduxManagerApp/blob/master/managerDemo.png?raw=true)
+![Image of Working Demo](https://github.com/zaturnvalley/ReactNativeReduxManagerApp/blob/master/managerDemo.png?raw=true)
 
 ![Image of Mockup](https://github.com/zaturnvalley/ReactNativeReduxManagerApp/blob/master/mockup.png?raw=true)
