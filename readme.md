@@ -10,8 +10,10 @@
 * Security features
 * Multiple page app that allows to edit data
 
-## Mockup:
+## Image of Working Demo:
 
 ![Image of Working Demo](https://github.com/zaturnvalley/ReactNativeReduxManagerApp/blob/master/managerDemo.png?raw=true)
+
+## Mockup:
 
 ![Image of Mockup](https://github.com/zaturnvalley/ReactNativeReduxManagerApp/blob/master/mockup.png?raw=true)
